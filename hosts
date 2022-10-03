@@ -4,12 +4,22 @@
 # Homepage: https://www.github.com/WisdomSky/Xiaomi-Router-Adblock
 
 0.0.0.0 hao123.com
+0.0.0.0 www.hao123.com
 0.0.0.0 meituan.com
+0.0.0.0 www.meituan.com
 0.0.0.0 focus.cn
+0.0.0.0 www.focus.cn
 0.0.0.0 itc.cn
+0.0.0.0 www.itc.cn
 0.0.0.0 12377.cn
+0.0.0.0 www.12377.cn
 0.0.0.0 163.com
+0.0.0.0 www.163.com
 0.0.0.0 sohu.com
+0.0.0.0 www. sohu.com
 0.0.0.0 qq.com
+0.0.0.0 www.qq.com
 0.0.0.0 taobao.com
+0.0.0.0 www.taobao.con
 0.0.0.0 baidu.com
+0.0.0.0 www.baidu.com
