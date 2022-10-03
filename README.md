@@ -1,9 +1,9 @@
-# Xiaomi-Router-Adlist
-Adlist for blocking xiaomi routers from sending data to different chinese domains when using a Xiaomi router and its official client apps
+# Xiaomi-Router-Adblock
+Pihome, AdGuard, & etc adlist for blocking xiaomi routers from sending data to different chinese domains when using a Xiaomi router and its official client apps
 
 ### LINK:
 
-[https://raw.githubusercontent.com/WisdomSky/Xiaomi-Router-Adlist/main/hosts](https://raw.githubusercontent.com/WisdomSky/Xiaomi-Router-Adlist/main/hosts)
+[https://raw.githubusercontent.com/WisdomSky/Xiaomi-Router-Adblock/main/hosts](https://raw.githubusercontent.com/WisdomSky/Xiaomi-Router-Adblock/main/hosts)
 
 
 ### NOTE:
