@@ -1,7 +1,7 @@
 # Title: WisdomSky's Xiaomi tracking blocker
 # Description: Adlist for blocking xiaomi routers from sending data to different chinese domains when using a Xiaomi router and its official client apps.
 # Released: 2022-10-03
-# Homepage: https://www.github.com/WisdomSky/Xiaomi-Router-Adlist
+# Homepage: https://www.github.com/WisdomSky/Xiaomi-Router-Adblock
 
 0.0.0.0 hao123.com
 0.0.0.0 meituan.com
